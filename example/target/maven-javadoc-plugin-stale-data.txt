@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/schul/OneDrive/Documentos/NetBeansProjects/example/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/schul/OneDrive/Documentos/NetBeansProjects/example/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'example 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'example 1.0-SNAPSHOT API'
+com.udesc.example
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\src\main\java = 1758923463773
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\allclasses-index.html = 1758924086638
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\allpackages-index.html = 1758924086644
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\element-list = 1758924086552
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\help-doc.html = 1758924086689
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\index-all.html = 1758924086670
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\index.html = 1758924086679
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\member-search-index.js = 1758924086651
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\module-search-index.js = 1758924086646
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\overview-tree.html = 1758924086619
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\package-search-index.js = 1758924086648
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\search.html = 1758924086675
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\tag-search-index.js = 1758924086652
+C:\Users\schul\OneDrive\Documentos\NetBeansProjects\example\target\reports\apidocs\type-search-index.js = 1758924086650
